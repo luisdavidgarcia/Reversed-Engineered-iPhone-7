@@ -6,6 +6,7 @@
 <ul>
   <li>Tweezers</li>
   <li>Wrench</li>
+  <li>Pliers</li>
   <li>Screw Driver Set for Small Screws</li>
   <li>Clean Surface</li>
   <li>Plastic Bag for Disposing of Components</li>
